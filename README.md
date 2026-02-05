@@ -1,5 +1,5 @@
 # composable-product-specs
-Thoughts and notes on composable product specifications.
+A framework for writing product specs that humans and AI can actually understand.
 
 If your product spec can’t be understood without AI, it’s already trash.
 
